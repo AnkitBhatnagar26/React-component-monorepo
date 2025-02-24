@@ -4,6 +4,7 @@ This monorepo is structured to manage a React component library and a playground
 
 ## 📂 Project Structure
 
+````plaintext
 react-component-monorepo/
 │── packages/
 │ ├── components-library/ # The component library
@@ -43,7 +44,7 @@ Run the following command at the root of the repository to install all dependenc
 
 ```sh
 pnpm install
-```
+````
 
 ### Clean and Reinstall (for fresh setup)
 
